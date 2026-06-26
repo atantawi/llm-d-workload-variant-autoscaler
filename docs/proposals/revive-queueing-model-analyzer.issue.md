@@ -1,13 +1,3 @@
-<!--
-This file is the body for an Enhancement tracking issue (.github/ISSUE_TEMPLATE/feature-tracking.md).
-Create it with, e.g.:
-  gh issue create --label enhancement \
-    --title "Revive the QueueingModelAnalyzer (SLO-driven, model-based scaling)" \
-    --body-file docs/proposals/revive-queueing-model-analyzer.issue.md
-Suggested title: Revive the QueueingModelAnalyzer (SLO-driven, model-based scaling)
-Suggested labels: enhancement
--->
-
 ## Motivation
 
 WVA can scale on saturation (reactive, KV-token based) and throughput (proactive, token-rate based),
